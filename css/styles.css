@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+#output {
+  display: none;
+}
+
+button {
+  margin-top: 20px;
+  width: 100%;
+  background-color: red;
+  font-weight: bolder;
+  font-size: 30px;
+  color: white;
+  height: 75px;
+  padding: 2px;
+}
+
+img {
+  height: 250px;
+  width: auto;
+}
+
+.jumbotron {
+  background-color: red;
+  color: white;
+  text-align: center;
+}
